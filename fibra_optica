@@ -1,0 +1,28 @@
+GUADALPING S.L
+
+Fundamentos de la fibra optica
+	Las fibras ópticas basan su funcionameinto en las leyes de reflexión u de la refracción de la luz
+	Al atravesar un cambio de material la luz se desvía al medio de velocidad menor.
+	Velocidad de corazón menor que revestimiento.
+	
+	
+	
+Que es la dispersion
+	Es un fenómeno que afecta a la comunicación por fibra óptica con fibras multimodo. Debido a cómo viajan los rayos de luz 
+	por la fibra, se produce un retardo en la transmisión de la señal, que genera una reducción o limitación del ancho de banda
+	o distancia de transmisión.
+
+Como se arregla el problema de la dispersion
+
+	Existen varios métodos:
+		+Modo Graduado y Monomodo
+		+Láser como emisor óptico ->(Conseguimos transmitir en una longitud de onda muy similar (ancho espectral reducido))
+		+Fibras compensadoras de dispersión (DCF) -> Se une un tramo de fibras digamos “positivas”, con otro tramo de fibras “negativas”, de modo 
+		que la dispersión se cancelara entre ambas.
+		+Fibras de dispersión desplazada (DSF) -> Son fibras sin dispersión cromática en la longitud
+		de onda de 1.550 nm, muy interesante por su baja atenuació
+		+Fibras de dispersión desplazda no nula (NZDSF) -> Para solucionar el problema de las DSF,
+		se desarrollaron fibras con dispersión cromática cercana al cero, pero no nulos, de esta forma
+		evitan los fenómenos no lineales
+		+Rejilla Bragg de fibra (FBG) -> Llamadas así por la aplicación de la Ley de Bragg, es una estructura
+		de pequeño tamaño (varios milímetros), que se instala en el núcleo de una fibra óptica
